@@ -1,0 +1,45 @@
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Common output / build folders
+out/
+output/
+dist/
+build/
+bin/
+obj/
+coverage/
+
+# Compiled / binary files
+*.o
+*.obj
+*.exe
+*.dll
+*.class
+*.jar
+*.war
+*.ear
+*.so
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs and temp
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OneDrive/Office temp files
+~$*
